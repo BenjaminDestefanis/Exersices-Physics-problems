@@ -28,5 +28,5 @@ const seriesCircuits = (values) => {
     // La funcion debe retornar un objeto , que contega 3 propiedades 
     // {"Voltaje", "Amperaje", "Resistencia Total"}
     // PD: Los valores deben ser strings, junto con sus descripciones, "12v", "3A", "412 Ohm"
-    // EJ: values = {"Voltaje": '24v', "Amperaje": '0.69mA', "Resistencia Total": '345 Ohm }
+    // EJ: values = {"Voltaje": '24v', "Amperaje": '0.69mA', "Resistencia Total": '345 Ohm }-
 }
