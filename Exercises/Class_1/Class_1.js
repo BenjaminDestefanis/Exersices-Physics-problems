@@ -15,5 +15,18 @@ const OhmLaw = (obj) => {
     // Por ultimo la funcion debe retornar el nuevo valor
     // EJ: obj = { V : 45, I : 10} -  R = V / I -  R = 45 / 10  - R = 4.5
     // Tu codigo AQUI:
-    
+
+}
+
+
+// 2. Series Circuits [Circuitos en Serie]
+
+const seriesCircuits = (values) => {
+    // La corriente en un circuito serie es absolutamente la misma en todos sus puntos.
+    // La funcion recibe un objeto que contiene 2 propiedades , que muestran los valores
+    // de baterias y resistencias.
+    // La funcion debe retornar un objeto , que contega 3 propiedades 
+    // {"Voltaje", "Amperaje", "Resistencia Total"}
+    // PD: Los valores deben ser strings, junto con sus descripciones, "12v", "3A", "412 Ohm"
+    // EJ: values = {"Voltaje": '24v', "Amperaje": '0.69mA', "Resistencia Total": '345 Ohm }
 }
