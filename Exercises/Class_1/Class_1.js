@@ -29,4 +29,17 @@ const seriesCircuits = (values) => {
     // {"Voltaje", "Amperaje", "Resistencia Total"}
     // PD: Los valores deben ser strings, junto con sus descripciones, "12v", "3A", "412 Ohm"
     // EJ: values = {"Voltaje": '24v', "Amperaje": '0.69mA', "Resistencia Total": '345 Ohm }
+    // Tu codigo AQUI:
+
 }
+
+// 3. Final free fall velocity calculation [Calculo de velocidad final - caida libre]
+
+const secondNewtonLaw = (initialVelocity, acceleration, time, expectdVelocity) => {
+    // La funcion debe retornar true , si la diferencia entre el calculo de la velocidad
+    // final , y la velocidad que se espera (expectdVelocity), no es mayor de 10 m/s
+    // PD: Para calcualr la velocidad final del objeto, utilizar la segunda ley de Newton
+    // Tu codigo AQUI:
+    
+}
+
