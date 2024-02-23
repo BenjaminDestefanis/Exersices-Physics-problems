@@ -52,5 +52,9 @@ const forceCalculation = (mass, acceleration, firstExpectdForce, secondExperctdF
 
 }
 
+// 5. Pyramid Construction
 
+const pyramidConstrction = () => {
+    
+}
 
