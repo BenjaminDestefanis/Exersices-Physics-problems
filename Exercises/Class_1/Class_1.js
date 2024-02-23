@@ -1,6 +1,5 @@
 // Exercises Class One
 
-// Exercise one
 // 1. Ohm's law [Ley de ohm]
 
 
@@ -40,6 +39,18 @@ const secondNewtonLaw = (initialVelocity, acceleration, time, expectdVelocity) =
     // final , y la velocidad que se espera (expectdVelocity), no es mayor de 10 m/s
     // PD: Para calcualr la velocidad final del objeto, utilizar la segunda ley de Newton
     // Tu codigo AQUI:
-    
+
 }
+
+// 4. Force Calculation [Calculo de fuerza]
+
+const forceCalculation = (mass, acceleration, firstExpectdForce, secondExperctdForce) => {
+    // La funcion debe retornar true, si la fuerza (Newtons), se encuentra entre las espectativas de fuerza
+    // (firstExperctdForce, secondExperctdForce)
+    // PD: Para obtener la fuerza, debes utilizar la formula de la segunda ley de Newton
+    // Tu codigo AQUI:
+
+}
+
+
 
