@@ -81,5 +81,25 @@ const calculatePower = (homeAppliances, totalPowerLimit) => {
     // si el consumo es menor que el limite retornar el mensaje "El limite de potencia alcanza."
     // si el consumo es mayor que el limite retornar el mensaje "El limite de potencia no es suficiente."
     // tu codigo AQUI:
-    
+
 }
+
+// 8. Law Joule Efect [Efecto de ley joule]
+
+const efectJoule = (resistence, volt, time) => {
+    // La funcion debe calcular la energia termica que genera una resistencia de un 
+    // termotanque electrico. En este ejercicio debemos utilizar 2 leyes.
+    // La ley de ohm y la ley de Joule. 
+    // La funcion recibe 3 valores (resistence[number], volt[number], time[number - minutos])
+    // La formula de la Ley de Joule es: Q = I**2 x R x t
+    // Donde : Q = Calor expresado en Joules. I = Amperaje. R = Resistencia. t = tiempo en segundos
+    // Una vez obtenido el valor en Joules, la funcion debe retornar el valor de calorias de energia
+    // termica, teniendo en cuenta que 1 Joule = 0.24 calorias de energia termica
+    // PD: Tener en cuenta que para realizar la formula de la ley de Joule, necesitemaos tener
+    // el Amperaje, ya que la funcion ese valor no lo recibe.
+    // tu codigo AQUI:
+
+}
+
+
+
