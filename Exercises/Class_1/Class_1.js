@@ -58,3 +58,17 @@ const pyramidConstrction = () => {
     
 }
 
+
+// 6. Resistence - Voltage - Amper - Calculate [Calculo de resistencia-Voltaje-Ampere]
+
+const calculateRestVoltAmp = (array) => {
+    // La function recibe un array de objetos. EJ: [{V: 12, A: 1},{R: 4 , V: 24},{A: 5, R: 80}]
+    // Cada objeto tendra 2 propiedades, que pueden ser Amperaje (A), Voltaje (V), o Resistencia (R)
+    // La fundcion debe recorrer el array y obtener el valor faltante, utilizando la ley de ohm
+    // Luego guardar el valor (en formato String) encontrado y calculado, dentro de un array,
+    // EJ: ['2 A', '54 V', '320 ohm' , etc]
+    // finalmente la funcion debe retornar el array
+    // tu codigo AQUI:
+     
+}
+
