@@ -69,6 +69,17 @@ const calculateRestVoltAmp = (array) => {
     // EJ: ['2 A', '54 V', '320 ohm' , etc]
     // finalmente la funcion debe retornar el array
     // tu codigo AQUI:
-     
+
 }
 
+// 7. Calculate Power [Calcular Potencia]
+
+const calculatePower = (homeAppliances, totalPowerLimit) => {
+    // homeAppliances es una matriz de objetos que continern 3 popiedades {nombre del electrodomestico, Voltaje, Amperaje}
+    // la funcion debe calcular la potencia de cada electrodomestico , y luego saber si la potencia total, es menor
+    // que el limite de la potencia total (totalPowerLimit) que nos habilita nuestro provedor.
+    // si el consumo es menor que el limite retornar el mensaje "El limite de potencia alcanza."
+    // si el consumo es mayor que el limite retornar el mensaje "El limite de potencia no es suficiente."
+    // tu codigo AQUI:
+    
+}
