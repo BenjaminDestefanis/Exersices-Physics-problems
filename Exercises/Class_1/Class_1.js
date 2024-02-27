@@ -101,5 +101,8 @@ const efectJoule = (resistence, volt, time) => {
 
 }
 
+// 9. Calculate capacitor charge (Calcular garca de un capacitor)
 
-
+const calculateCapacitorCharge = (farads, Volts) => {
+    
+}
