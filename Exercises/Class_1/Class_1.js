@@ -2,8 +2,7 @@
 
 // 1. Ohm's law [Ley de ohm]
 
-
-const OhmLaw = (obj) => {
+const ohmLaw = (obj) => {
     // La funcion recibe 1 objeto con 2 propiedades: EJ: obj = { prop : 32,4 , prop2 : 12}
     // La funcion debe funcionar como la ley de OHM que dice lo siguiente
     // V = I * R || I = V / R || R = V / I (./images/ley_ohm.png)
@@ -104,5 +103,13 @@ const efectJoule = (resistence, volt, time) => {
 // 9. Calculate capacitor charge (Calcular garca de un capacitor)
 
 const calculateCapacitorCharge = (farads, Volts) => {
-    
+
+}
+
+
+module.exports = {
+    ohmLaw,
+    seriesCircuits,
+    secondNewtonLaw
+
 }
