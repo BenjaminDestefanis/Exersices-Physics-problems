@@ -21,7 +21,7 @@ const ohmLaw = (obj) => {
 // 2. Series Circuits [Circuitos en Serie]
 
 const seriesCircuits = (values) => {
-    // La corriente en un circuito serie es absolutamente la misma en todos sus puntos.
+    // La corriente en un circuito en serie es absolutamente la misma en todos sus puntos(nodos).
     // La funcion recibe un objeto que contiene 2 propiedades , que muestran los valores
     // de baterias y resistencias.
     // La funcion debe retornar un objeto , que contega 3 propiedades 
