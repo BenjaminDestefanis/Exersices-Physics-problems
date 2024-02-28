@@ -12,6 +12,7 @@ const ohmLaw = (obj) => {
     // Luego la funcion debe aplicar la ley de Ohm para obtener el valor faltante.
     // Por ultimo la funcion debe retornar el nuevo valor
     // EJ: obj = { V : 45, I : 10} -  R = V / I -  R = 45 / 10  - R = 4.5
+    // PD: Los resultados flotantes , si tiene mas de 2 decimales, redondear con 2 decimales.
     // Tu codigo AQUI:
 
 }
