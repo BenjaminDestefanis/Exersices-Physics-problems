@@ -25,3 +25,8 @@ describe("1. ohmLaw(obj)", () => {
         expect(ohmLaw(case3)).toBe(2.4)
     })
 })
+
+// TEST 2 
+describe("2. seriesCircuits(values)", () => {
+    
+})
