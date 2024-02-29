@@ -30,3 +30,8 @@ describe("1. ohmLaw(obj)", () => {
 describe("2. seriesCircuits(values)", () => {
     
 })
+
+// TEST 3
+describe("3. secondNewton(initialVelocity, acceleration, time, expectdVelocity)", () => {
+    it()
+})
